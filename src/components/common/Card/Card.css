@@ -1,0 +1,132 @@
+.slider-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.slider-header {
+  text-align: center;
+  font-family: "Avenir-Light";
+  font-size: 28pt;
+  font-weight: lighter;
+  margin-bottom: 65px;
+}
+
+.slider-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.slider-button.left {
+  left: -30px;
+}
+
+.slider-button.right {
+  right: -30px;
+}
+
+.cart-wrapper {
+  height: 360px;
+  justify-content:space-between;
+  gap: 113px;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cart-wrapper::-webkit-scrollbar {
+  height: 10px;
+}
+
+.cart-wrapper::-webkit-scrollbar-track {
+  background: #c9c9c9;
+  border-radius: 6px;
+}
+
+.cart-wrapper::-webkit-scrollbar-thumb {
+  background-color: #616161;
+  border-radius: 6px;
+}
+
+.image-container {
+  width: 215px;
+  height: 215px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.cart-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: zoom-in;
+  transition: transform 0.3s ease-in-out;
+}
+
+.cart-image:hover {
+  transform: scale(1.15);
+  z-index: 1;
+}
+
+.product-info .product-name {
+  margin-top: 10px;
+  font-size: 10pt;
+  font-family: Avenir-Book;
+}
+
+.product-info .price {
+  margin-top: 5px;
+  font-size: 11pt;
+  font-family: Avenir-Book;
+}
+
+.colors .colors-wrapper {
+  margin-top: 20px;
+  display: flex;
+  column-gap: 4px;
+  margin-left: -1px;
+}
+
+.colors .colors-label {
+  margin-top: 8px;
+  font-size: 8pt;
+  font-family: Avenir-Light;
+}
+
+.colors .color-wrapper {
+  border: 1px solid transparent;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  padding: 2px;
+  cursor: pointer;
+  transition: 0.2s ease all;
+}
+
+.colors .color-wrapper.active {
+  border-color: #000;
+}
+
+.colors .color-wrapper input[type="radio"] {
+  appearance: none;
+  pointer-events: none;
+}
+
+.colors .color-wrapper:hover {
+  border-color: #000;
+}
+
+.colors .color-wrapper label {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  margin-right: 8px;
+  cursor: pointer;
+}

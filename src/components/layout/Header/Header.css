@@ -1,0 +1,35 @@
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 90px;
+  margin: 25px 0;
+}
+
+.header .logo {
+  font-family: "Avenir-Roman";
+  font-size: 14pt;
+  letter-spacing: 1.2px;
+}
+
+.header .icons {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.header .search-icon {
+  background-color: transparent;
+}
+
+.header .cart-icon {
+  cursor: pointer;
+}
+
+.header .search-icon img {
+  height: 26px;
+}
+
+.header .cart-icon img {
+  height: 26px;
+}

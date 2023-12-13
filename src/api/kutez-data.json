@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Engagement Ring 1",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG009/EG009-Y.jpg",
+            "src/assets/img/EG009/EG009-W.jpg",
+            "src/assets/img/EG009/EG009-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Engagement Ring 2",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG012/EG012-Y.jpg",
+            "src/assets/img/EG012/EG012-W.jpg",
+            "src/assets/img/EG012/EG012-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Engagement Ring 3",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG020/EG020-200P-Y.jpg",
+            "src/assets/img/EG020/EG020-200P-W.jpg",
+            "src/assets/img/EG020/EG020-200P-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Engagement Ring 4",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG022/EG022-100P-Y.jpg",
+            "src/assets/img/EG022/EG022-100P-W.jpg",
+            "src/assets/img/EG022/EG022-100P-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Engagement Ring 5",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG074/EG074-200P-Y.jpg",
+            "src/assets/img/EG074/EG074-100P-W.jpg",
+            "src/assets/img/EG074/EG074-200P-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Engagement Ring 6",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG075/EG075-200P-Y.jpg",
+            "src/assets/img/EG075/EG075-200P-W.jpg",
+            "src/assets/img/EG075/EG075-200P-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Engagement Ring 7",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG094/EG094-200P-Y.jpg",
+            "src/assets/img/EG094/EG094-200P-W.jpg",
+            "src/assets/img/EG094/EG094-200P-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Engagement Ring 8",
+        "price": 101.00,
+        "img": [
+            "src/assets/img/EG115/EG115-100P-Y.jpg",
+            "src/assets/img/EG115/EG115-100P-W.jpg",
+            "src/assets/img/EG115/EG115-100P-R.jpg"
+        ],
+        "color": [
+            "#E6CA97",
+            "#D9D9D9",
+            "#E1A4A9"
+        ],
+        "colorName": [
+            "Yellow Gold",
+            "White Gold",
+            "Rose Gold"
+        ]
+    }
+]

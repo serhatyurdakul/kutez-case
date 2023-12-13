@@ -1,0 +1,41 @@
+.btnViewAll {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: color 0.3s ease;
+  margin-bottom: 50px;
+}
+
+.svg-container:hover path {
+  stroke: white;
+  transition: stroke 0.3s ease;
+}
+
+.btnViewAll:hover,
+.btnViewAll:focus {
+  background-color: black;
+}
+
+.btnViewAll svg path,
+.btnViewAll span {
+  transition: all 0.1s ease;
+}
+
+.btnViewAll:hover svg path,
+.btnViewAll:hover span,
+.btnViewAll:focus svg path,
+.btnViewAll:focus span {
+  stroke: white;
+  color: white;
+}
+
+.btnViewAll span {
+  font-family: "Avenir-Light";
+  font-size: 10pt;
+  letter-spacing: 1px;
+  height: 10pt;
+}

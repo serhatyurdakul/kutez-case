@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Avenir-Book";
+  src: url("../../../public/fonts/Avenir-Book.ttf") format("truetype");
+}
+
+
+@font-face {
+  font-family: "Avenir-Light";
+  src: url("../../../public/fonts/Avenir-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir-Medium";
+  src: url("../../../public/fonts/Avenir-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir-Roman";
+  src: url("../../../public/fonts/Avenir-Roman.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MontserratAlternates-Medium";
+  src: url("../../../public/fonts/MontserratAlternates-Medium.otf")
+    format("truetype");
+}
